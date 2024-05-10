@@ -1,0 +1,11 @@
+{
+  "name": "zuri_node_assignment",
+  "version": "1.0.0",
+  "description": "this is a zuri assignment",
+  "main": "assignment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chuks",
+  "license": "ISC"
+}
